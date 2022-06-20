@@ -4,4 +4,8 @@
 [core]
 	editor = emacs
 [init]
-	defaultBranch = trunk
+	defaultBranch = main
+[merge]
+	tool = emerge
+[mergetool]
+	keepBackup = false
