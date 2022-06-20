@@ -3,3 +3,5 @@
 	email = {email}
 [core]
 	editor = emacs
+[init]
+	defaultBranch = trunk
